@@ -1,0 +1,6 @@
+classic,4.50
+strawberry,5.00
+mango,5.00
+chocolate,6.00
+matcha,6.00
+tiramisu,7.00
